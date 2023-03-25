@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\bin\Debug\control_lol.exe.config
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\bin\Debug\control_lol.exe
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\bin\Debug\control_lol.pdb
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.Form1.resources
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.Properties.Resources.resources
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.exe
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Kr_lol\control_lol\obj\Debug\control_lol.pdb
